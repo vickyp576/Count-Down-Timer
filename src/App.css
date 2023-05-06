@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#timecount {
+    padding: 5px;
+}
+
+label {
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+#current-time {
+   padding: 10px;
+   text-align: center;
+   font-size: large;
+}
+span {
+    color: red;
+    font-weight: 500;
+}
